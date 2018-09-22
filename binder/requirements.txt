@@ -2,7 +2,6 @@ pandas
 networkx
 scipy
 numpy
-mpi4py
 pytest
 cortix
 matplotlib
