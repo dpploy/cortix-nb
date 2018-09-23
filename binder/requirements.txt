@@ -3,5 +3,5 @@ networkx
 scipy
 numpy
 pytest
-cortix
+cortix==0.0.6
 matplotlib
