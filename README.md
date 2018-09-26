@@ -1,6 +1,6 @@
 # [Cortix](https://github.com/dpploy/cortix) Jupyter Notebooks 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dpploy/cortix-nb/master)
-[Render on NBViewer](http://nbviewer.jupyter.org/github/dpploy/cortix-nb/tree/master/)
+[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/cortix-nb/tree/master/)
 
     In construction
 
