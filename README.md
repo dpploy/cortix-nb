@@ -16,5 +16,5 @@ clicking on individual notebook files, you will access the live notebooks.
 + Use the green `clone or download` button above on the right upper side of the page and download a ZIP archive to your local machine. Then use your own Jupyter Notebook server to open the files in the ZIP archive. In this case the files will not be updated and you will need to return to the repository for getting new files or updated versions of previously downloaded files.
 
 Static HTML version of the notebooks will be rendered on the current browser if a 
-notebook file listed in the code repository is clicked on. Alternatively you can render the notebooks on [NBViewer](http://nbviewer.jupyter.org/)
+notebook file listed in the code repository is clicked on. Alternatively you can render the notebooks on [NBViewer](http://nbviewer.jupyter.org/) by clicking on the `render|nbviewer` badge above.
 
