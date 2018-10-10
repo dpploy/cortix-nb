@@ -1,1 +1,1 @@
-cortix
+cortix==0.0.8
