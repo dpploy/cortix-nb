@@ -1,7 +1,1 @@
-pandas
-networkx
-scipy
-numpy
-pytest
-cortix==0.0.6
-matplotlib
+cortix
