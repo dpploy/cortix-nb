@@ -1,4 +1,6 @@
 # [Cortix](https://cortix.org) Jupyter Notebooks 
+[![Home](https://img.shields.io/website-up-down-green-red/https/github.com/dpploy/cortix-nb.svg?label=home&style=flat)](https://cortix.org)
+[![Size](https://img.shields.io/github/repo-size/dpploy/cortix-nb.svg?label=size&style=flat)](https://cortix.org)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/cortix-nb/master)
 [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/cortix-nb/)
 
