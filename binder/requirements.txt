@@ -1,2 +1,2 @@
-cortix --no-deps
+--no-deps cortix
 jupyter_contrib_nbextensions
