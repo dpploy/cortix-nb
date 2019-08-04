@@ -1,2 +1,2 @@
-cortix --install-option='--no-deps'
+cortix
 jupyter_contrib_nbextensions
