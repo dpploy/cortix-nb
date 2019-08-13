@@ -1,6 +1,5 @@
-<img align="left" src="https://cortix.org/logo.jpg">
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png">
 
+![](https://cortix.org/logo.jpg) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png)
 
 > Cortix Jupyter notebooks for example usage
 
