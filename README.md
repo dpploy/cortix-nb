@@ -1,4 +1,6 @@
-# [Cortix](https://cortix.org) Jupyter Notebooks 
+![Cortix Logo](https://cortix.org/logo.jpg)  ![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png)
+
+> Cortix Jupyter notebooks for example usage
 
 ![Website](https://img.shields.io/website/https/github.com/dpploy/cortix-nb.svg)
 [![Size](https://img.shields.io/github/repo-size/dpploy/cortix-nb.svg?label=size&style=flat)](https://cortix.org)
@@ -6,19 +8,13 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/cortix-nb/master)
 [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/cortix-nb/)
 
-    In construction
+    Under construction
 
-Cortix Jupyter notebooks for examples and usage.
+This repo is home to a set of  Jupyter notebooks that contain  examples of the usage of [Cortix](https://github.com/dpploy/cortix). 
 
-This site collects Jupyter Notebooks in Python programming language for executing examples of usage of [Cortix](https://github.com/dpploy/cortix). This requires a Jupyter Notebook server to load the notebook files (`*.ipynb`).
-The examples can be executed in the following ways:
-+ Click on the `launch/binder` badge above to launch a Jupyter Notebook server for the
-course notebooks. There will be a delay for the Binder cloud server to build a 
-Python (Anaconda) programming environment for you. However once it is done, it will 
-start a Jupyter Notebook server on your web browser with all notebooks listed. Upon 
-clicking on individual notebook files, you will access the live notebooks.
-+ Alternatively, use the green `clone or download` button above on the right upper side of the page and download a ZIP archive to your local machine. Then use your own Jupyter Notebook server to open the files in the ZIP archive. In this case the files will not be updated and you will need to return to the repository for getting new files or updated versions of previously downloaded files.
+Clone the repo to run the notebooks locally, or use [Binder](https://mybinder.org/v2/gh/dpploy/cortix-nb/master) or [Azure](https://notebooks.azure.com/dealmeidavf/projects/cortix-nb) to see them online!
 
-Static HTML version of the notebooks will be rendered on the current browser if a 
-notebook file listed in the code repository is clicked on. Alternatively you can render the notebooks on [NBViewer](http://nbviewer.jupyter.org/) by clicking on the `render|nbviewer` badge above.
+# Available Examples
 
+*  [Droplet in a Vortex](https://github.com/dpploy/cortix-nb/blob/master/run_droplet.ipynb) -  Simulates the motion of a swarm of droplets in a vortex stream
+*  [Justice](https://github.com/dpploy/cortix-nb/blob/master/run_justice.ipynb) - simulates a population dynamics model across the network of a hypothetical criminal justice system
