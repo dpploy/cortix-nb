@@ -14,5 +14,5 @@ Clone the repo to run the notebooks locally, or use [Binder](https://mybinder.or
 
 # Available Examples
 
-*  [Droplet in a Vortex](https://github.com/dpploy/cortix-nb/blob/master/run_droplet.ipynb) -  Simulates the motion of a swarm of droplets in a vortex stream
-*  [Justice](https://github.com/dpploy/cortix-nb/blob/master/run_justice.ipynb) - simulates a population dynamics model across the network of a hypothetical criminal justice system
+*  [Droplet in a Vortex](https://github.com/dpploy/cortix-nb/blob/master/run_droplet_swirl.ipynb) -  Simulates the motion of a swarm of droplets in a vortex stream
+*  [Justice](https://github.com/dpploy/cortix-nb/blob/master/run_city_justice.ipynb) - simulates a population dynamics model across the network of a hypothetical criminal justice system
