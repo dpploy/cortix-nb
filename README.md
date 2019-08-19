@@ -2,7 +2,7 @@
 
 | Network dynamics modeling & simulation | on | Jupyter |
 |:---:|:--:|:----:|
-| <img src="https://cortix.org/logo.jpg" title="Cortix logo"> | -> | <img width="115" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" title="Jupiter logo"> |
+| <img src="https://cortix.org/logo.jpg" title="Cortix logo"> | <==> | <img width="115" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" title="Jupiter logo"> |
 
 ![Website](https://img.shields.io/website/https/github.com/dpploy/cortix-nb.svg)
 [![Size](https://img.shields.io/github/repo-size/dpploy/cortix-nb.svg?label=size&style=flat)](https://cortix.org)
