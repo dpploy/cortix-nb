@@ -14,7 +14,7 @@ This repo is home to a set of  Jupyter notebooks that contain  examples of the u
 
 Clone the repo to run the notebooks locally, or use [Binder](https://mybinder.org/v2/gh/dpploy/cortix-nb/master) or [Azure](https://notebooks.azure.com/dealmeidavf/projects/cortix-nb) to see them online!
 
-# Available Examples
+# Examples
 
 *  [Droplets Swirl in a Vortex](https://github.com/dpploy/cortix-nb/blob/master/run_droplet_swirl.ipynb) -  Simulates the motion of a swarm of droplets in a vortex stream.
 *  [City Justice](https://github.com/dpploy/cortix-nb/blob/master/run_city_justice.ipynb) - Simulates a population dynamics model across the network of a hypothetical criminal justice system.
