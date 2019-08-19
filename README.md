@@ -1,6 +1,6 @@
 # Cortix Jupyter notebooks
 
-| Cortix network dynamics | on | Jupyter |
+| Network dynamics modeling & simulation | on | Jupyter |
 |:---:|:--:|:----:|
 | <img src="https://cortix.org/logo.jpg" title="Cortix logo"> | -> | <img width="115" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" title="Jupiter logo"> |
 
