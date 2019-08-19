@@ -4,7 +4,7 @@
 |:---:|:--:|:----:|
 | <img src="https://cortix.org/logo.jpg" title="Cortix logo"> | <==> | <img width="115" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" title="Jupiter logo"> |
 
-![Website](https://img.shields.io/website/https/github.com/dpploy/cortix-nb.svg)
+[![Website](https://img.shields.io/website/https/github.com/dpploy/cortix-nb.svg)](https://github.com/dpploy/cortix-nb)
 [![Size](https://img.shields.io/github/repo-size/dpploy/cortix-nb.svg?label=size&style=flat)](https://cortix.org)
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/dealmeidavf/projects/cortix-nb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/cortix-nb/master)
