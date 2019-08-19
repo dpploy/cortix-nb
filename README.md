@@ -1,4 +1,4 @@
-# Cortix Jupyter notebooks
+# Cortix on Jupyter notebooks
 
 | Network dynamics modeling & simulation | on | Jupyter |
 |:---:|:--:|:----:|
