@@ -12,9 +12,9 @@
 
 This repo is home to a set of  Jupyter notebooks that contain  examples of the usage of [Cortix](https://github.com/dpploy/cortix). 
 
-Clone the repo to run the notebooks locally, or use [Binder](https://mybinder.org/v2/gh/dpploy/cortix-nb/master) or [Azure](https://notebooks.azure.com/dealmeidavf/projects/cortix-nb) to run them on your browser.
+Clone the repo to run the notebooks locally, or use [Binder](https://mybinder.org/v2/gh/dpploy/cortix-nb/master) or [Azure](https://notebooks.azure.com/dealmeidavf/projects/cortix-nb) to run them in your browser.
 
-If you only want to look through a static notebook, use the [NBViewer](http://nbviewer.jupyter.org/github/dpploy/cortix-nb).
+Static versions of the notebooks are available on [NBViewer](http://nbviewer.jupyter.org/github/dpploy/cortix-nb).
 
 # Examples
 
