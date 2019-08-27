@@ -18,6 +18,10 @@ Static versions of the notebooks are available on [NBViewer](http://nbviewer.jup
 
 # Examples
 
+|  | Topic |
+|:---|:---|
+|<img  width="150" src="https://github.com/dpploy/cortix-nb/blob/master/img/droplet.png" title="droplets"> | [Droplets Swirl in a Vortex](https://nbviewer.jupyter.org/github/dpploy/cortix-nb/blob/master/run_droplet_swirl.ipynb) -  Simulates the motion of a swarm of droplets in a vortex stream |
+|<img  width="150" src="https://github.com/dpploy/cortix-nb/blob/master/img/justice.png" title="droplets"> | [City Justice](https://nbviewer.jupyter.org/github/dpploy/cortix-nb/blob/master/run_city_justice.ipynb) - Simulates a population dynamics model across the network of a hypothetical criminal justice system. |
 
 *  [Droplets Swirl in a Vortex](https://nbviewer.jupyter.org/github/dpploy/cortix-nb/blob/master/run_droplet_swirl.ipynb) -  Simulates the motion of a swarm of droplets in a vortex stream.
 
