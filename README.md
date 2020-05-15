@@ -8,7 +8,7 @@
 [![Size](https://img.shields.io/github/repo-size/dpploy/cortix-nb.svg?label=size&style=flat)](https://cortix.org)
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/dealmeidavf/projects/cortix-nb)
 [![Binder](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://mybinder.org/v2/gh/dpploy/cortix-nb/master)
-[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/cortix-nb/)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/cortix-nb/)
 
 This repo is home to a set of  Jupyter notebooks that contain  examples of the usage of [Cortix](https://github.com/dpploy/cortix). 
 
